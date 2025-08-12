@@ -7,7 +7,7 @@ This project detects faces from a webcam feed and displays the **dominant age, g
 
 ## Table of Contents
 - [Project Overview](#project-overview)  
-- [Recording](#recording)  
+- [Demo](#demo)  
 - [Features](#features)  
 - [Installation](#installation)  
 - [Built With](#built-with)  
@@ -23,8 +23,12 @@ Text output has a **black outline** for readability against any background.
 
 ---
 
-## Recording
+## Demo
 You can view a demo below:  
+<img width="636" height="507" alt="Screenshot 2025-08-12 at 2 35 54 PM" src="https://github.com/user-attachments/assets/72bfd1e3-f7a0-4df6-922f-d731ae609ea0" />
+
+<img width="701" height="559" alt="Screenshot 2025-08-12 at 2 36 17 PM" src="https://github.com/user-attachments/assets/c486bb21-9f80-4c81-981b-ec25e897f5b1" />
+
 
 
 ---
